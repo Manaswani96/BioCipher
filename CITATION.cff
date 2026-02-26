@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "BioCipher"
+message: "If you use this project, please cite it."
+type: software
+authors:
+  - family-names: "Mahi"
+version: 0.1.0
+license: MIT
