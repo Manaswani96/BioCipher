@@ -6,7 +6,9 @@ It simulates the **Central Dogma (DNA → mRNA → Protein)** and connects seque
 The project reframes academic bioinformatics exercises into an integrated system where genetic sequences are compiled into proteins and validated through mass-based signals.
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active%20Build-success)
+![Focus](https://img.shields.io/badge/Focus-Central%20Dogma%20%7C%20Proteomics-purple)
 ## ✨ Core Idea
 
 Biology can be viewed as an information system:
