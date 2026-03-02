@@ -1,5 +1,4 @@
 # BioCipher Research Notes 
-
 ## Scope
 BioCipher models biological information flow as a pipeline:
 DNA → mRNA → Protein → Mass Spectrum → Matching
